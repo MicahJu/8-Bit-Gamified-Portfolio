@@ -1,12 +1,17 @@
 {
   "name": "2d-portfolio-kaboom",
+  "homepage": "https://micahju.github.io/8-Bit-Gamified-Portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+    
+
   },
   "devDependencies": {
     "terser": "^5.27.1",
