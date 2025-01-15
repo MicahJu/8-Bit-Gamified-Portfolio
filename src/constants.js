@@ -7,9 +7,9 @@ export const dialogueData = {
   "cs-degree": `This is my Computer Graphics degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I believe it gave me a good foundation.`,
   "sofa-table": `That's my sofa. I like to relax here and watch TV or play video games depending on my mood.
    <a href="" target="_blank">my channel</a>!`,
-  tv: `That's my TV. I watch a lot of tech youtubers to stay informed on new material within the IT industry :
-   <a href="" target="_blank"></a>, <a href="" target="_blank">-</a>,
-  <a href="" target="_blank"></a> <a href="" target="_blank"></a>!`,
+  tv: `That's my TV. I watch a lot of tech youtubers to stay informed on new material within the IT industry.
+   <a href="" target="_blank"></a> <a href="" target="_blank"></a>
+  <a href="" target="_blank"></a> <a href="" target="_blank"></a>`,
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
   resume: `This is my desk. All the creativity happens here. <a href="" target="_blank"></a>
   Contact me at micahjuwallace@gmail.com if you have any interesting job opportunities!`,
